@@ -193,6 +193,7 @@ header nav a{
 }
 .introAbout{
     border-bottom: 1px dashed black;
+    margin: 2%;
 }
 .introAbout p{
     display: flex;
