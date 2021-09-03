@@ -144,3 +144,79 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+header{
+   margin: 2%;
+    
+}
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 2%;
+    padding: 2%;
+}
+
+header nav a{
+    text-decoration: none;
+    color: black;
+
+}
+.middle-content .boxes .one{
+    background-color: teal;
+}
+.middle-content .boxes .two{
+    background-color: gold;
+}
+.middle-content .boxes .three{
+    background-color: cadetblue;
+}
+.middle-content .boxes .four{
+    background-color: coral;
+}
+.middle-content .boxes .five{
+    background-color: crimson;
+}
+.middle-content .boxes .six{
+    background-color: forestgreen;
+}
+.middle-content .boxes .seven{
+    background-color: darkorchid;
+}
+.middle-content .boxes .eight{
+    background-color: hotpink;
+}
+.middle-content .boxes .nine{
+    background-color: indigo;
+}
+.middle-content .boxes .ten{
+    background-color: dodgerblue;
+}
+.introAbout{
+    border-bottom: 1px dashed black;
+    margin: 2%;
+}
+.introAbout p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    
+}
+.aboutContainer{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+.aboutContainer button{
+    margin: 3% 0;
+    padding: 2% 4%;
+    background-color: white;
+    border-radius: 8px;
+    border-color: black;
+}
+
+.lastAbout{
+    margin: 2%;
+    padding: 2%;
+}
