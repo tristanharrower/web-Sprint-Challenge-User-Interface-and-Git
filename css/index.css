@@ -209,7 +209,7 @@ header nav a{
     border-bottom: 1px dashed black;
 }
 .aboutContainer button{
-    margin: 3%;
+    margin: 3% 0;
     padding: 2% 4%;
     background-color: white;
     border-radius: 8px;
